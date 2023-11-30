@@ -1,0 +1,11 @@
+.jumbotron {
+    background: url("images/Logo.piaic.svg") no-repeat center;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+
+#contact {
+    background: url("images/contact.jpg") no-repeat center;
+}
